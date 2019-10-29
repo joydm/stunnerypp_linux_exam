@@ -42,7 +42,7 @@ B. Linux Exam
         https://landosonglist.com
 
 
-5. Create a vhost config that will handle http and https traffic under apache
+5. Create a vhost config that will handle http and https traffic under nginx
         
         See vhost_nginx.conf
 
